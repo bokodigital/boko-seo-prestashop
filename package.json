@@ -1,0 +1,9 @@
+{
+  "name": "boko-seo-prestashop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Boko Digital - PrestaShop SEO Meta Studio (Next.js, Webservice API).",
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": { "next": "14.2.5", "react": "18.3.1", "react-dom": "18.3.1" },
+  "engines": { "node": ">=18.17.0" }
+}
